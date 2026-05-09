@@ -1,0 +1,101 @@
+customer_id,company_name,region,country,segment
+1,Company_001,Central America,Costa Rica,Pharma
+2,Company_002,Europe,Germany,Retail 
+3,Company_003,Asia,India,industrial
+4,Company_004,South America,Argentina,Indust.
+5,Company_005,South America,Argentina,Retial
+6,Company_006,South America,Argentina,electronics
+7,Company_007,North America,USA,Food &Beverage
+8,Company_008,South America,Brazil,Electroncs
+9,Company_009,Asia,Japan,Pharma
+10,Company_010,Europe,Netherlands,RETAIL
+11,Company_011,Europe,France,food & beverage
+12,Company_012,Asia,India,Electronics
+13,Company_013,Central America,Costa Rica,Industrial
+14,Company_014,Asia,India,Electronics
+15,Company_015,Asia,Singapore,PHARMA
+16,Company_016,North America,Mexico,Retail 
+17,Company_017,South America,Colombia,Electronics
+18,Company_018,Central America,Costa Rica,Pharma
+19,Company_019,Asia,China,Retail 
+20,Company_020,North America,Mexico,food & beverage
+21,Company_021,North America,Mexico,Industriial
+22,Company_022,Asia,,Retail 
+23,Company_023,North America,USA,Retail
+24,Company_024,Central America,Guatemala,Pharma
+25,Company_025,North America,Canada,F&B
+26,Company_026,Central America,Costa Rica,retail
+27,Company_027,Asia,India,Industrial
+28,Company_028,Asia,,Retail
+29,Company_029,North America,USA,Food & Beverage
+30,Company_030,Central America,Honduras,Pharma
+31,Company_031,Europe,Spain,Industrial
+32,Company_032,South America,Brazil,retail
+33,Company_033,Asia,China,Indust.
+34,Company_034,Asia,Japan,Electronics
+35,Company_035,South America,Argentina,industrial
+36,Company_036,South America,,Pharma
+37,Company_037,Central America,Costa Rica,Electronics
+38,Company_038,South America,Argentina,
+39,Company_039,Asia,Singapore,Retail
+40,Company_040,North America,Canada,PHARMA
+41,Company_041,South America,Brazil,RETAIL
+42,Company_042,South America,,Food & Beverage
+43,Company_043,North America,Mexico,retail
+44,Company_044,South America,Brazil,Pharma
+45,Company_045,Europe,Spain,
+46,Company_046,South America,Chile,Industrial
+47,Company_047,North America,USA,
+48,Company_048,North America,Canada,PHARMA
+49,Company_049,Europe,Netherlands,
+50,Company_050,Asia,India,Pharma
+51,Company_051,Asia,Japan,Pharma
+52,Company_052,North America,Canada,Food &Beverage
+53,Company_053,Central America,Panama,electronics
+54,Company_054,North America,Canada,Food &Beverage
+55,Company_055,Central America,Panama,PHARMA
+56,Company_056,Europe,Spain,Electronica
+57,Company_057,South America,Argentina,retail
+58,Company_058,North America,USA,Retail
+59,Company_059,Asia,Japan,Food & Beverage
+60,Company_060,Central America,Honduras,Industrial
+61,Company_061,Central America,Honduras,Industrial
+62,Company_062,Europe,France,Electroncs
+63,Company_063,North America,Mexico,PHARMA
+64,Company_064,South America,Colombia,pharma
+65,Company_065,North America,Mexico,Indust.
+66,Company_066,,France,Electronics
+67,Company_067,Central America,Panama,Farmaceutico
+68,Company_068,Asia,,Food &Beverage
+69,Company_069,Europe,Spain,F&B
+70,Company_070,Central America,Costa Rica,F&B
+71,Company_071,Europe,Netherlands,Farmaceutico
+72,Company_072,Central America,Honduras,retail
+73,Company_073,,Costa Rica,industrial
+74,Company_074,Central America,Guatemala,food & beverage
+75,Company_075,,Guatemala,Farmaceutico
+76,Company_076,North America,USA,electronics
+77,Company_077,Asia,China,electronics
+78,Company_078,South America,Brazil,F&B
+79,Company_079,Europe,Spain,Electronics
+80,Company_080,Europe,France,Electronics
+81,Company_081,Europe,Spain,F&B
+82,Company_082,North America,Canada,Industrial
+83,Company_083,South America,Brazil,Electroncs
+84,Company_084,North America,Mexico,Food & Beverage
+85,Company_085,Europe,Spain,PHARMA
+86,Company_086,Asia,Singapore,Pharma
+87,Company_087,South America,Brazil,Electroncs
+88,Company_088,Asia,Singapore,
+89,Company_089,Asia,Japan,pharma
+90,Company_090,Europe,Germany,retail
+91,Company_091,South America,Chile,Retail
+92,Company_092,Asia,Singapore,Retail 
+93,Company_093,Asia,Japan,Electronics
+94,Company_094,South America,Brazil,Electronica
+95,Company_095,Central America,,Indust.
+96,Company_096,Europe,Netherlands,Retial
+97,Company_097,North America,Canada,Electronics
+98,Company_098,North America,Canada,Industrial
+99,Company_099,Europe,Germany,food & beverage
+100,Company_100,Europe,Germany,

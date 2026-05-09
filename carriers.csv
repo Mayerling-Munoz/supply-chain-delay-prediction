@@ -1,0 +1,6 @@
+carrier_id,carrier_name,transport_mode,avg_cost_per_kg
+1,FastShip Co.,Ground,1.2
+2,AirExpress,Air,4.5
+3,OceanFreight Ltd.,Maritimo,0.6
+4,SwiftLogistics,Ground,1.8
+5,GlobalCargo,AIR,5.1
